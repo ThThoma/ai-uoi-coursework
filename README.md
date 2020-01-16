@@ -3,7 +3,8 @@ exercise of artificial intelligence course at cse-uoi, spring of 2019
 (http://www.cs.uoi.gr/)
 
 AI-part1 is an implementation of Uniform Cost Search and A-Start algorthims, written in Java.
-AI-part1 is an implementation of MINIMAX algorthim, also written in Java. 
+
+AI-part2 is an implementation of MINIMAX algorthim, also written in Java. 
 
 # Comments:
 * you can find the requirements at exercise-instructions(greek).pdf
